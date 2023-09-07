@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Jasper and I have a background in political science, policy research and global governance. 
+While I have experience in using R to conduct quantitative analyses and data science, I recently decided to pursue a new set of skills by learning Python. 
+
+🔭 I’m currently working on an automated knowledge graph solution and weekly meal-planner
+🌱 I’m currently learning Python
+👯 I’m looking to collaborate on data science projects
+📫 How to reach me: [on LinkedIn](https://www.linkedin.com/in/jasper-b-simon/)
 <!--
 **jabizzlepar/jabizzlepar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
