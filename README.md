@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jasper and I have a background in political science, policy research and global governance. 
+My name is Jasper and I have a background in research and political science. 
 While I have experience in using R to conduct quantitative analyses and data science, I recently decided to pursue a new set of skills by learning Python. 
 
 🔭 I’m currently working on an automated knowledge graph solution and weekly meal-planner <br/>
